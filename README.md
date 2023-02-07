@@ -7,3 +7,10 @@
 
 字体来源：https://github.com/lxgw/LxgwWenkaiGB
 授权：OFL 1.1
+
+# 上首综艺体
+
+字体来源：https://www.fonts.net.cn/font-40521316498.html
+> 版权与许可
+> 非商免字体
+> 若您要将该字体用于商业用途，请与权属方联系并取得书面授权，该授权可能需要您支付相应的版权费用。
