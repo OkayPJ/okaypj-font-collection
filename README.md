@@ -20,3 +20,6 @@
 
 # 演示夏行楷
 字体来源：https://mp.weixin.qq.com/s/CRnRsYu8ymlG9_oK6wmBag
+
+# 鸿雷行书简体
+字体来源：https://mp.weixin.qq.com/s/3X9j26oaVfwaZ9GcROMPWw
