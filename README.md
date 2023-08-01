@@ -23,3 +23,8 @@
 
 # 鸿雷行书简体
 字体来源：https://mp.weixin.qq.com/s/3X9j26oaVfwaZ9GcROMPWw
+
+# 长城中行书体
+字体来源：
+- https://www.fontke.com/font/10004729/
+- https://ztxz.org.cn/changcheng/2891.html
