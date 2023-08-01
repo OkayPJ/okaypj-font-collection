@@ -15,6 +15,10 @@
 > 非商免字体
 > 若您要将该字体用于商业用途，请与权属方联系并取得书面授权，该授权可能需要您支付相应的版权费用。
 
+# 上首逍遥体
+
+字体来源：https://www.fonts.net.cn/font-40260388309.html
+
 # 金山云技术体
 字体来源：https://design.ksyun.com/font
 
@@ -29,7 +33,7 @@
 - https://www.fontke.com/font/10004729/
 - https://ztxz.org.cn/changcheng/2891.html
 
-# 迷你简行楷
+# 迷你简细行楷
 字体来源：https://www.fonts.net.cn/font-31908324285.html
 
 # 逐浪创意流珠体
