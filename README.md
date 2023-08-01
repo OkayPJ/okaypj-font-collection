@@ -28,3 +28,9 @@
 字体来源：
 - https://www.fontke.com/font/10004729/
 - https://ztxz.org.cn/changcheng/2891.html
+
+# 迷你简行楷
+字体来源：https://www.fonts.net.cn/font-31908324285.html
+
+# 逐浪创意流珠体
+字体来源：https://www.fonts.net.cn/font-33784717468.html
